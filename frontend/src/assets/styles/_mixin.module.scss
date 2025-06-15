@@ -1,0 +1,4 @@
+//Dùng chung, tái dự dụng
+@mixin radius_common($radius: 10px) {
+  border-radius: $radius;
+}
